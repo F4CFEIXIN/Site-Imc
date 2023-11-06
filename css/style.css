@@ -1,0 +1,40 @@
+body{
+    background-color: #6A4BC0 !important ; 
+}
+
+.nav-top{
+    background-color: #856DCA !important;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    padding: 0.2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+}
+.principal{
+    background-color: #F9D8FF;
+    margin-left: 20% !important;
+    margin-right: 20% !important;
+    margin-top: 5%;
+    padding: 3%;
+}
+.btn-boy{
+    margin-left: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+}
+.btn-girl{
+    margin-left: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 5%;
+}
+.btn-calcu{
+    background-color: #777777;
+}
+.indice{
+    margin-top: 5%;
+    width: 100%
+}
